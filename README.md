@@ -12,12 +12,19 @@ In this mini project, we'll create a step-by-step project to simulate the workfl
 
     Git was installed successfully and confirmed by running git version in the terminal.
 
+ add-contact-info
+![](./img/git%20version.png)
+
 ![git version](https://github.com/user-attachments/assets/d1e61698-f7bd-40ab-ad8c-c06fa6ad5fc7)
+
 
 
 ### Step 2: Create a Git Repository
 
 A Github repository was created with the name *AI-Startup-website*
+
+ add-contact-info
+![](./img/Creating%20Repo.png)
 
 ![Creating Repo](https://github.com/user-attachments/assets/b4982f6f-ae89-4f5e-b019-85aeca7f0ca9)
 
@@ -25,6 +32,43 @@ A Github repository was created with the name *AI-Startup-website*
 ### Step 3: Clone the Repository
 
 In the terminal, I created a directory named *git project*. I navigated into it, and then cloned the repository into the directory.
+
+ add-contact-info
+![](./img/Cloning%20Repo.png)
+
+![](./img/Making%20Dir_Cloning.png)
+
+## I navigate into the cloned repository.
+
+![](./img/cd%20AI-website.png)
+
+## I created an index.html file in the cloned repository.
+
+![](./img/touch.png)
+
+## I added content to the index.html file.
+
+![](./img/file%20added.png)
+
+## I checked the changes made has not been staged for commit.
+
+![](./img/git%20status.png)
+
+## I added the changes to the staging area.
+
+![](./img/git%20add.png)
+
+## I checked the status again to confirm the changes have been staged.
+
+![](./img/git%20status2.png)
+
+## I committed the changes with a message.
+
+![](./img/git%20commit.png)
+
+## Then I pushed the main branch to GitHub.
+
+![](./img/git%20push.png)
 
 ![Cloning Repo](https://github.com/user-attachments/assets/0b669d9d-d33e-40b0-af6f-23d3060999bb)
 
@@ -71,12 +115,48 @@ In the terminal, I created a directory named *git project*. I navigated into it,
 
 ![git push](https://github.com/user-attachments/assets/80774096-eaff-4efb-9b60-e08751803015)
 
+ main
 
 ## Part 2: Simulating Tom and Jerry's Work
 
 ### Tom's work
 
 ### I checked the branch I am currently working on.
+
+ add-contact-info
+![](./img/git%20branch.png)
+
+### I created a new branch for Tom's work.
+
+![](./img/git%20checkout.png)
+
+### I checked the branch again to confirm I am on the Tom's branch.
+
+![](./img/git%20branch2.png)
+
+### I edited the index.html file to add Tom's content
+
+![](./img/file%20added.png)
+
+### I checked the status to confirm the changes have not been staged.
+
+![](./img/git%20status3.png)
+
+### I added the changes to the staging area.
+
+![](./img/git%20add2.png)
+
+### I checked the status again to confirm the changes have been staged
+
+![](./img/git%20status4.png)
+
+### I committed the changes with a message.
+
+![](./img/git%20commit2.png)
+
+### I pushed the Tom's branch to GitHub.
+
+![](./img/git%20push2.png)
 
 ![git branch](https://github.com/user-attachments/assets/fe92bb93-7910-4bc4-adb0-6aaa90489939)
 
@@ -125,6 +205,24 @@ In the terminal, I created a directory named *git project*. I navigated into it,
 
 ### I switched back to the main branch.
 
+
+![](./img/git%20checkout2.png)
+
+### I pulled the latest changes from the remote repository to ensure I have the latest version of the main branch.
+
+![](./img/git%20pull.png)
+
+### I created a new branch for Jerry's work.
+
+![](./img/git%20checkout3.png)
+
+### I staged Jerry's changes to the index.html file and commited them with a message.
+
+![](./img/git%20commit2.png)
+
+### I pushed Jerry's branch to GitHub.
+![](./img/git%20push3.png)
+
 ![git checkout2](https://github.com/user-attachments/assets/8071c37e-3dbd-48e7-a1ee-ed58dfc90baa)
 
 
@@ -145,4 +243,5 @@ In the terminal, I created a directory named *git project*. I navigated into it,
 
 ### I pushed Jerry's branch to GitHub.
 ![git push3](https://github.com/user-attachments/assets/c110c299-e264-400c-93b6-150e53a5d503)
+
 
